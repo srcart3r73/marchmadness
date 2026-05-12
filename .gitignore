@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+*.pkl
+
+# Environment
+.env
+!.env.example
+
+# Artifacts (large model files)
+backend/artifacts/*.pkl
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
