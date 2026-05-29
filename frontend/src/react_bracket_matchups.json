@@ -1,0 +1,412 @@
+{
+    "South": [
+        {
+            "r": "R64",
+            "t1": "florida_gators",
+            "t2": "prairie_view_a&m_panthers",
+            "actual": "florida_gators"
+        },
+        {
+            "r": "R64",
+            "t1": "kansas_jayhawks",
+            "t2": "california_baptist_lancers",
+            "actual": "kansas_jayhawks"
+        },
+        {
+            "r": "R64",
+            "t1": "miami_hurricanes",
+            "t2": "missouri_tigers",
+            "actual": "miami_hurricanes"
+        },
+        {
+            "r": "R64",
+            "t1": "uconn_huskies",
+            "t2": "furman_paladins",
+            "actual": "uconn_huskies"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_wolverines",
+            "t2": "saint_louis_billikens",
+            "actual": "michigan_wolverines"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_state_spartans",
+            "t2": "louisville_cardinals",
+            "actual": "michigan_state_spartans"
+        },
+        {
+            "r": "R64",
+            "t1": "duke_blue_devils",
+            "t2": "tcu_horned_frogs",
+            "actual": "duke_blue_devils"
+        },
+        {
+            "r": "R64",
+            "t1": "houston_cougars",
+            "t2": "texas_a&m_aggies",
+            "actual": "houston_cougars"
+        },
+        {
+            "r": "R64",
+            "t1": "gonzaga_bulldogs",
+            "t2": "texas_longhorns",
+            "actual": "texas_longhorns"
+        },
+        {
+            "r": "R64",
+            "t1": "illinois_fighting_illini",
+            "t2": "vcu_rams",
+            "actual": "illinois_fighting_illini"
+        },
+        {
+            "r": "R64",
+            "t1": "nebraska_cornhuskers",
+            "t2": "vanderbilt_commodores",
+            "actual": "nebraska_cornhuskers"
+        },
+        {
+            "r": "R64",
+            "t1": "arkansas_razorbacks",
+            "t2": "high_point_panthers",
+            "actual": "arkansas_razorbacks"
+        },
+        {
+            "r": "R64",
+            "t1": "purdue_boilermakers",
+            "t2": "miami_hurricanes",
+            "actual": "purdue_boilermakers"
+        },
+        {
+            "r": "R64",
+            "t1": "iowa_state_cyclones",
+            "t2": "kentucky_wildcats",
+            "actual": "iowa_state_cyclones"
+        },
+        {
+            "r": "R64",
+            "t1": "kansas_jayhawks",
+            "t2": "st._john's_red_storm",
+            "actual": "st._john's_red_storm"
+        },
+        {
+            "r": "R64",
+            "t1": "virginia_cavaliers",
+            "t2": "tennessee_volunteers",
+            "actual": "tennessee_volunteers"
+        }
+    ],
+    "East": [
+        {
+            "r": "R64",
+            "t1": "howard_bison",
+            "t2": "umbc_retrievers",
+            "actual": "howard_bison"
+        },
+        {
+            "r": "R64",
+            "t1": "nc_state_wolfpack",
+            "t2": "texas_longhorns",
+            "actual": "texas_longhorns"
+        },
+        {
+            "r": "R64",
+            "t1": "lehigh_mountain_hawks",
+            "t2": "prairie_view_a&m_panthers",
+            "actual": "prairie_view_a&m_panthers"
+        },
+        {
+            "r": "R64",
+            "t1": "smu_mustangs",
+            "t2": "miami_(oh)_redhawks",
+            "actual": "miami_(oh)_redhawks"
+        },
+        {
+            "r": "R64",
+            "t1": "ohio_state_buckeyes",
+            "t2": "tcu_horned_frogs",
+            "actual": "tcu_horned_frogs"
+        },
+        {
+            "r": "R64",
+            "t1": "nebraska_cornhuskers",
+            "t2": "troy_trojans",
+            "actual": "nebraska_cornhuskers"
+        },
+        {
+            "r": "R64",
+            "t1": "louisville_cardinals",
+            "t2": "south_florida_bulls",
+            "actual": "louisville_cardinals"
+        },
+        {
+            "r": "R64",
+            "t1": "wisconsin_badgers",
+            "t2": "high_point_panthers",
+            "actual": "high_point_panthers"
+        },
+        {
+            "r": "R64",
+            "t1": "duke_blue_devils",
+            "t2": "siena_saints",
+            "actual": "duke_blue_devils"
+        },
+        {
+            "r": "R64",
+            "t1": "vanderbilt_commodores",
+            "t2": "mcneese_cowboys",
+            "actual": "vanderbilt_commodores"
+        },
+        {
+            "r": "R64",
+            "t1": "arkansas_razorbacks",
+            "t2": "hawai'i_rainbow_warriors",
+            "actual": "arkansas_razorbacks"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_state_spartans",
+            "t2": "north_dakota_state_bison",
+            "actual": "michigan_state_spartans"
+        },
+        {
+            "r": "R64",
+            "t1": "north_carolina_tar_heels",
+            "t2": "vcu_rams",
+            "actual": "vcu_rams"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_wolverines",
+            "t2": "howard_bison",
+            "actual": "michigan_wolverines"
+        },
+        {
+            "r": "R64",
+            "t1": "saint_mary's_gaels",
+            "t2": "texas_a&m_aggies",
+            "actual": "texas_a&m_aggies"
+        },
+        {
+            "r": "R64",
+            "t1": "byu_cougars",
+            "t2": "texas_longhorns",
+            "actual": "texas_longhorns"
+        }
+    ],
+    "West": [
+        {
+            "r": "R64",
+            "t1": "illinois_fighting_illini",
+            "t2": "pennsylvania_quakers",
+            "actual": "illinois_fighting_illini"
+        },
+        {
+            "r": "R64",
+            "t1": "georgia_bulldogs",
+            "t2": "saint_louis_billikens",
+            "actual": "saint_louis_billikens"
+        },
+        {
+            "r": "R64",
+            "t1": "houston_cougars",
+            "t2": "idaho_vandals",
+            "actual": "houston_cougars"
+        },
+        {
+            "r": "R64",
+            "t1": "gonzaga_bulldogs",
+            "t2": "kennesaw_state_owls",
+            "actual": "gonzaga_bulldogs"
+        },
+        {
+            "r": "R64",
+            "t1": "kentucky_wildcats",
+            "t2": "santa_clara_broncos",
+            "actual": "kentucky_wildcats"
+        },
+        {
+            "r": "R64",
+            "t1": "texas_tech_red_raiders",
+            "t2": "akron_zips",
+            "actual": "texas_tech_red_raiders"
+        },
+        {
+            "r": "R64",
+            "t1": "arizona_wildcats",
+            "t2": "long_island_university_sharks",
+            "actual": "arizona_wildcats"
+        },
+        {
+            "r": "R64",
+            "t1": "virginia_cavaliers",
+            "t2": "wright_state_raiders",
+            "actual": "virginia_cavaliers"
+        },
+        {
+            "r": "R64",
+            "t1": "iowa_state_cyclones",
+            "t2": "tennessee_state_tigers",
+            "actual": "iowa_state_cyclones"
+        },
+        {
+            "r": "R64",
+            "t1": "alabama_crimson_tide",
+            "t2": "hofstra_pride",
+            "actual": "alabama_crimson_tide"
+        },
+        {
+            "r": "R64",
+            "t1": "villanova_wildcats",
+            "t2": "utah_state_aggies",
+            "actual": "utah_state_aggies"
+        },
+        {
+            "r": "R64",
+            "t1": "tennessee_volunteers",
+            "t2": "miami_(oh)_redhawks",
+            "actual": "tennessee_volunteers"
+        },
+        {
+            "r": "R64",
+            "t1": "clemson_tigers",
+            "t2": "iowa_hawkeyes",
+            "actual": "iowa_hawkeyes"
+        },
+        {
+            "r": "R64",
+            "t1": "st._john's_red_storm",
+            "t2": "northern_iowa_panthers",
+            "actual": "st._john's_red_storm"
+        },
+        {
+            "r": "R64",
+            "t1": "ucla_bruins",
+            "t2": "ucf_knights",
+            "actual": "ucla_bruins"
+        },
+        {
+            "r": "R64",
+            "t1": "purdue_boilermakers",
+            "t2": "queens_university_royals",
+            "actual": "purdue_boilermakers"
+        }
+    ],
+    "Midwest": [
+        {
+            "r": "R64",
+            "t1": "florida_gators",
+            "t2": "iowa_hawkeyes",
+            "actual": "iowa_hawkeyes"
+        },
+        {
+            "r": "R64",
+            "t1": "arizona_wildcats",
+            "t2": "utah_state_aggies",
+            "actual": "arizona_wildcats"
+        },
+        {
+            "r": "R64",
+            "t1": "uconn_huskies",
+            "t2": "ucla_bruins",
+            "actual": "uconn_huskies"
+        },
+        {
+            "r": "R64",
+            "t1": "alabama_crimson_tide",
+            "t2": "texas_tech_red_raiders",
+            "actual": "alabama_crimson_tide"
+        },
+        {
+            "r": "R64",
+            "t1": "purdue_boilermakers",
+            "t2": "texas_longhorns",
+            "actual": "purdue_boilermakers"
+        },
+        {
+            "r": "R64",
+            "t1": "nebraska_cornhuskers",
+            "t2": "iowa_hawkeyes",
+            "actual": "iowa_hawkeyes"
+        },
+        {
+            "r": "R64",
+            "t1": "houston_cougars",
+            "t2": "illinois_fighting_illini",
+            "actual": "illinois_fighting_illini"
+        },
+        {
+            "r": "R64",
+            "t1": "arizona_wildcats",
+            "t2": "arkansas_razorbacks",
+            "actual": "arizona_wildcats"
+        },
+        {
+            "r": "R64",
+            "t1": "duke_blue_devils",
+            "t2": "st._john's_red_storm",
+            "actual": "duke_blue_devils"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_wolverines",
+            "t2": "alabama_crimson_tide",
+            "actual": "michigan_wolverines"
+        },
+        {
+            "r": "R64",
+            "t1": "uconn_huskies",
+            "t2": "michigan_state_spartans",
+            "actual": "uconn_huskies"
+        },
+        {
+            "r": "R64",
+            "t1": "iowa_state_cyclones",
+            "t2": "tennessee_volunteers",
+            "actual": "tennessee_volunteers"
+        },
+        {
+            "r": "R64",
+            "t1": "illinois_fighting_illini",
+            "t2": "iowa_hawkeyes",
+            "actual": "illinois_fighting_illini"
+        },
+        {
+            "r": "R64",
+            "t1": "arizona_wildcats",
+            "t2": "purdue_boilermakers",
+            "actual": "arizona_wildcats"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_wolverines",
+            "t2": "tennessee_volunteers",
+            "actual": "michigan_wolverines"
+        },
+        {
+            "r": "R64",
+            "t1": "duke_blue_devils",
+            "t2": "uconn_huskies",
+            "actual": "uconn_huskies"
+        },
+        {
+            "r": "R64",
+            "t1": "uconn_huskies",
+            "t2": "illinois_fighting_illini",
+            "actual": "uconn_huskies"
+        },
+        {
+            "r": "R64",
+            "t1": "arizona_wildcats",
+            "t2": "michigan_wolverines",
+            "actual": "michigan_wolverines"
+        },
+        {
+            "r": "R64",
+            "t1": "michigan_wolverines",
+            "t2": "uconn_huskies",
+            "actual": "michigan_wolverines"
+        }
+    ]
+}
